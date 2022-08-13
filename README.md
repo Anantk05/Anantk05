@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+<img src="https://cdn.pixabay.com/photo/2014/10/05/19/02/binary-code-475664__340.jpg" width="1000" height="200">
 
 <h1 align="center">Hi 👋, I'm Anant Kumar</h1>
 <h3 align="center">Passionate programmer with proficient skills in Back-end and Front-end Technologies.</h3>
