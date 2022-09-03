@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1pYhsr9jQRAmQGpdlQO_DvoA37tL4dgvr/view?usp=sharing](https://drive.google.com/file/d/1pYhsr9jQRAmQGpdlQO_DvoA37tL4dgvr/view?usp=sharing)
 
-- ⚡ Fun fact **I think, I make fun of every moment with Friends.**
+- ⚡ Fun fact **I change my facial expressions quickly**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
