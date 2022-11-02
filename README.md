@@ -23,7 +23,7 @@
 <a href="https://www.linkedin.com/in/anantk05" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/174/174857.png" alt="https://www.linkedin.com/in/anantk05" height="30" width="30" /></a>
 
 <a href="https://www.leetcode.com/https://leetcode.com/anantk05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/anantk05/" height="30" width="40" /></a>
-<a href="[https://www.leetcode.com/https://leetcode.com/anantk05/](https://www.hackerrank.com/anantk05?hr_r=1)" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg](https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png)" alt="[https://leetcode.com/anantk05/](https://www.hackerrank.com/anantk05?hr_r=1)" height="30" width="40" /></a>
+<a href="[https://www.leetcode.com/https://leetcode.com/anantk05/](https://www.hackerrank.com/anantk05?hr_r=1)" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="hackerrank" height="30" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
