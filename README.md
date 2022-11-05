@@ -17,8 +17,6 @@
 
 - 📄 Know about my experiences https://drive.google.com/file/d/16VVEtdRpJx6KepAcSkv0xRuDtO0_3mmp/view?usp=share_link
 
-- ⚡ Fun fact **I change my facial expressions quickly**
-
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/anantk05" target="blank"><img align="left" src="https://cdn-icons-png.flaticon.com/128/174/174857.png" alt="https://www.linkedin.com/in/anantk05" height="30" width="25" /></a>
 
