@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **MYSQL, BINARY SEARCH**
 
-- 👨‍💻 All of my projects are available at [https://anantk05.github.io/Portfolio/](https://anantk05.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at https://anantkumarportfolio.netlify.app/
 
 - 💬 Ask me about **Core Java, Spring Boot, Hibernate, MySQL, GitHub**
 
 - 📫 How to reach me **anantkm1998@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1pYhsr9jQRAmQGpdlQO_DvoA37tL4dgvr/view?usp=sharing](https://drive.google.com/file/d/1pYhsr9jQRAmQGpdlQO_DvoA37tL4dgvr/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/16VVEtdRpJx6KepAcSkv0xRuDtO0_3mmp/view?usp=share_link
 
 - ⚡ Fun fact **I change my facial expressions quickly**
 
