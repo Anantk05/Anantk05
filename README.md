@@ -7,7 +7,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anantk05" alt="anantk05" /></a> </p>
 
-- 🌱 I’m currently learning **MYSQL, BINARY SEARCH**
+- 🌱 I’m currently learning **Spring Security**
 
 - 👨‍💻 All of my projects are available at https://anantkumarportfolio.netlify.app/
 
