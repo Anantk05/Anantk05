@@ -11,11 +11,11 @@
 
 - 👨‍💻 All of my projects are available at https://anantk05.github.io/Portfolio/
 
-- 💬 Ask me about **Core Java, Spring Boot, Hibernate, MySQL, GitHub**
+- 💬 Ask me about **Core Java, Advanced Java, Spring, Spring Boot, Hibernate, ORM, Postgresql, MySQL, Kafka, Redis, Prometheus, Grafana, mongoDB, React, Javascript, Html/Css, GitHub**
 
 - 📫 How to reach me **anantkm1998@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/16VVEtdRpJx6KepAcSkv0xRuDtO0_3mmp/view?usp=share_link
+- 📄 Know about my experiences https://docs.google.com/spreadsheets/d/16RZbcUFLyYJ3EqB7CbYZRZ2b3R_ydohyCcbRbhkYzFA/edit?usp=drive_link
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/anantk05" target="blank"><img align="left" src="https://cdn-icons-png.flaticon.com/128/174/174857.png" alt="https://www.linkedin.com/in/anantk05" height="30" width="25" /></a>
