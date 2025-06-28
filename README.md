@@ -47,7 +47,7 @@
   </a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40" style="background-color: white; border-radius: 50%; padding: 5px;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
   </a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://redis.io/" target="_blank" rel="noreferrer">
@@ -87,8 +87,8 @@
   </a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40" style="background-color: white; border-radius: 50%; padding: 5px;"/>
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/>
+</a>
 </p>
 
 
