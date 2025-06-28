@@ -11,11 +11,11 @@
 
 - 👨‍💻 All of my projects are available at https://anantk05.github.io/Portfolio/
 
-- 💬 Ask me about **Core Java, Advanced Java, Spring, Spring Boot, Hibernate, ORM, Postgresql, MySQL, Kafka, Redis, Prometheus, Grafana, mongoDB, React, Javascript, Html/Css, GitHub**
+- 💬 Ask me about **Core Java, Advanced Java, Spring, Spring Boot, Hibernate, ORM, Postgresql, MySQL, Kafka, Redis, Prometheus, Grafana, MongoDB, React, Javascript, HTML/CSS, GitHub**
 
 - 📫 How to reach me **anantkm1998@gmail.com**
 
-- 📄 Know about my experiences https://docs.google.com/spreadsheets/d/16RZbcUFLyYJ3EqB7CbYZRZ2b3R_ydohyCcbRbhkYzFA/edit?usp=drive_link
+- 📄 Know about my experiences https://drive.google.com/file/d/1LUK6bEgk8qdCT7KePmz9AX3UYUOCAsWo/view
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/anantk05" target="blank"><img align="left" src="https://cdn-icons-png.flaticon.com/128/174/174857.png" alt="https://www.linkedin.com/in/anantk05" height="30" width="25" /></a>
@@ -31,4 +31,4 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=anantk05&show_icons=true&locale=en" alt="anantk05" width="400" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=anantk05&" alt="anantk05" width="400" /></p>
+<p><img align="right" src="https://streak-stats.demolab.com/?user=Anantk05" alt="anantk05" width="400" /></p>
