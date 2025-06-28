@@ -47,7 +47,7 @@
   </a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://stickpng.com/assets/images/580b57fcd9996e24bc43c530.png" alt="kafka" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="40" height="40"/>
   </a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://redis.io/" target="_blank" rel="noreferrer">
