@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Spring Security**
 
-- 👨‍💻 All of my projects are available at https://anantkumarportfolio.netlify.app/
+- 👨‍💻 All of my projects are available at https://anantk05.github.io/Portfolio/
 
 - 💬 Ask me about **Core Java, Spring Boot, Hibernate, MySQL, GitHub**
 
